@@ -10,4 +10,4 @@ Other document verification commands:
 2. gpg --verify "RAM Memory Architecture.pdf.asc" "RAM Memory Architecture.pdf"
 3. gpg --verify "GPU Memory Architecture.pdf.asc" "GPU Memory Architecture.pdf"
 
-Hello Everyone, I'm a human-centric systems architect who works across multiple domains. I'm based in the North America with a deep understanding  of UK systems
+
